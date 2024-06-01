@@ -1,4 +1,4 @@
-# doctorsrus
+# doctors_R_us
 An appointment booking system built on JSON files
 
 ## Overview
